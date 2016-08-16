@@ -502,7 +502,7 @@ a {
   -webkit-box-pack: center;
   -webkit-box-align: center;
   text-align: center;
-  background: 100% url("/img/icon.jpg") center no-repeat #aaf;
+  background: url("/img/icon.jpg") 100% center no-repeat #aaf;
 }
 #header .profilepic img {
   width: 20%;
