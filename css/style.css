@@ -205,7 +205,7 @@ a {
   height: 110px;
   position: absolute;
   width: 100%;
-  background: #4d4d4d;
+  background: #566f8d;
 }
 #container #mobile-nav .overlay.fixed {
   position: fixed;
@@ -503,7 +503,7 @@ a {
   -webkit-box-pack: center;
   -webkit-box-align: center;
   text-align: center;
-  background: url("/img/icon.jpg") center no-repeat #aaf;
+  background: 100% url("/img/icon.jpg") center no-repeat #aaf;
 }
 #header .profilepic img {
   width: 20%;
